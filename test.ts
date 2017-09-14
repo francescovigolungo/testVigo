@@ -1,12 +1,12 @@
 export class vigo{
 
-    a: number;
-    b: number;
-    c: number;
+    a: string;
+    b: string;
+    c: string;
 
     constructor(){
-        this.a = 1;
-        this.b = 2;
-        this.b = 3;
+        this.a = "1";
+        this.b = "2";
+        this.b = "3";
     }
 }
